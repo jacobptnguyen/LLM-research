@@ -1,0 +1,9 @@
+mcp
+langchain 
+langchain-community 
+langchain-groq 
+langchain-mcp-adapters
+chromadb 
+sentence-transformers 
+newsapi-python
+
